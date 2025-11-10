@@ -1,1 +1,1 @@
-# Semantic-Analysis-Project
+# Sentiment-Analysis-Project
